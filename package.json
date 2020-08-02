@@ -1,0 +1,7 @@
+{
+	"name": "gulp-example",
+	"version": "0.1.0",
+	"devDependencies": {
+		"gulp": "^4.0.2"
+	}
+}
